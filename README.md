@@ -59,7 +59,7 @@ A peer-to-peer file sharing web application that allows users to upload, securel
 
 ## 👨‍💻 Contributors
 
-- **Vivek** - Creator and Lead Developer
+- **Umar** - Creator and Lead Developer
 
 Feel free to fork this repository, raise issues, or submit pull requests. Contributions are always welcome!
 
