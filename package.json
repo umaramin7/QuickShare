@@ -1,0 +1,30 @@
+{
+  "name": "p2p-file-sharing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "A peer-to-peer file sharing web application that allows users to upload, securely share, and access files using a simple and intuitive interface. The application uses a password protection mechanism, file expiration, and QR code generation for easy file sharing and download.",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.16",
+    "qrcode": "^1.5.4",
+    "socket.io": "^4.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umaramin7/QuickShare.git"
+  },
+  "bugs": {
+    "url": "https://github.com/umaramin7/QuickShare/issues"
+  },
+  "homepage": "https://github.com/umaramin7/QuickShare#readme"
+}
