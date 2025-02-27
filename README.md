@@ -12,7 +12,7 @@ A peer-to-peer file sharing web application that allows users to upload, securel
   Uploaders can set an optional password to protect their files. Only those with the correct password can download the file.
 
 - **Drag-and-Drop Upload**:  
-  Upload files effortlessly using drag-and-drop or by selecting files directly from the file explorer.
+  Upload files effortlessly using drag-and-drop or by selecting files directly from the file explorers.
 
 - **Progress Tracking**:  
   Track the upload progress with a dynamic progress bar, and monitor the percentage completion.
